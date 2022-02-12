@@ -4,6 +4,8 @@ Use the guidance of this script to give you a hand in digging through school dis
 
 With the use of a general neighborhood/city + a target name, Schlrint can scan though districts searching for attended students.
 You can find a good bunch of possible school districts in a city with a simple google search. It's best to make more educated guesses
-to save time. 
+to save time. <br />
 
 >**But what can I do with knowing my targets attended school district?**
+It's not neccessary, but can serve some pratical use. <br />
+You can find target photos, class information, friends, and a pretty good guess of a living place.
