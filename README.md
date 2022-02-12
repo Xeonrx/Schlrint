@@ -12,3 +12,8 @@ Find possible; class information, hobbies, photos, acquaintances, and more with 
 It could also catagorize their home in a smaller area or region of a city, if that's what you're looking for.
 
 Yeah, this may seem a little extra or far fetched. But sometimes, it could be the best shot to a new foothold of information.
+
+# Usage?
+Schlrint works by google dorking the given school district and fetching full names off any related website it could find.
+By default, it will scrape any name it can find off a list of the most common names. You can sped up the script by lowering
+the amount of results, or make it more accurate *(but longer)* by searching for more results. 
