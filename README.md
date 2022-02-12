@@ -7,5 +7,6 @@ You can find a good bunch of possible school districts in a city with a simple g
 to save time. <br />
 
 >**But what can I do with knowing my targets attended school district?**
+
 It's not neccessary, but can serve some pratical use. <br />
 You can find target photos, class information, friends, and a pretty good guess of a living place.
