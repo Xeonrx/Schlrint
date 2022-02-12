@@ -10,3 +10,5 @@ to save time. <br />
 Locating your target's school district isn't neccessary, but can serve some use, if serious about gathering information.
 Find possible; class information, hobbies, photos, acquaintances, and more with the use of knowing an attended school.
 It could also catagorize their home in a smaller area or region of a city, if that's what you're looking for.
+
+Yeah, this may seem a little extra or far fetched. But sometimes, it could be the best shot to a new foothold of information.
