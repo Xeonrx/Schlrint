@@ -31,4 +31,4 @@ the amount of results, or make it more accurate *(but longer)* by searching for 
 --unique | Disposes of matching names before displaying.
 --deeper | Dig through more results for a more accurate search.
 ```
-> You can use the --full tag with given first names (-t), to find every surname of the given first names.
+> You can use the --full tag with given first names (-t), to find every surname of the names you specified.
