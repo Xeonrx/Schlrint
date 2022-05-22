@@ -42,4 +42,6 @@ Just know adding more content will make the process longer to complete, but mayb
 Just know the intent of SCHLRINT is for OSINT. Not to help dox anyone, nor to harrass people.<br />
 Please stay right, and in the legal bounds of things.
 
-This script uses the MIT License. Read more about it here: https://opensource.org/licenses/MIT
+and **PLEASE** don't rely on this script for a guarenteed answer. Checking Manually is always better!
+
+*This script uses the MIT License. Read more about it here: https://opensource.org/licenses/MIT*
