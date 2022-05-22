@@ -36,3 +36,9 @@ Schlrint is already all set up for you, but if you really want to reconfigure it
 
 Every one of these files are easily editable. You can add more content for more accuracy, or even remove content.<br />
 Just know adding more content will make the process longer to complete, but maybe time isn't a problem :)
+
+## Disclaimer & License
+Just know the intent of SCHLRINT is for OSINT. Not to help dox anyone, nor to harrass people.<br />
+Please stay right, and in the legal bounds of things.
+
+This script uses the MIT License. Read more about it here: https://opensource.org/licenses/MIT
