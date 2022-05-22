@@ -15,3 +15,6 @@ This script was developed to aid me in google dorking, doing all the work for in
 SCHLRINT can return found people off a wordlist of names, or I can specify a specifc name to find for me.
 
 I don't see too many 'school based' OSINT scripts/techniques online, so I figured I'd share it with the internet.
+
+## Usage
+Usage is pretty straight foward for SCHLRINT. You give a school district, and a location (state/region) if needed.
