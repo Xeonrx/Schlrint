@@ -21,7 +21,11 @@ Usage is pretty straight foward for SCHLRINT. You give a school district, and a 
 
 `python3 Schlrint.py -d SomeSchool -l RandomPlace` *(location isnt required but helps)*
 
-By default, Schlrint will only return first names. Give the `--full` flag, and it will search for full names.<br />
-Use the `--unique` flag, and Schlrint will ingnore repeated names for an easier output.
+- By default, Schlrint will only return first names. Give the `--full` flag, and it will search for full names.<br />
+- Use the `--unique` flag, and Schlrint will ingnore repeated names for an easier output.<br />
+- If you want to dig through more results, use the `--deeper` flag, to search even further.
 
 If you must refer to the usage again, just use the `-h` flag, and it will be there for you.
+
+## Configuration
+Schlrint is 
