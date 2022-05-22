@@ -17,5 +17,9 @@ SCHLRINT can return found people off a wordlist of names, or I can specify a spe
 I don't see too many 'school based' OSINT scripts/techniques online, so I figured I'd share it with the internet.
 
 ## Usage
-Usage is pretty straight foward for SCHLRINT. You give a school district, and a location (state/region) if needed.<br />
+Usage is pretty straight foward for SCHLRINT. You give a school district, and a location (state/region) if needed.
+
 `python3 Schlrint.py -d SomeSchool -l RandomPlace` *(location isnt required but helps)*
+
+By default, Schlrint will only return first names. Give the `--full` flag, and it will search for full names.<br />
+Use the `--unique` flag, and Schlrint will ingnore repeated names for an easier output.
