@@ -30,6 +30,9 @@ If you must refer to the usage again, just use the `-h` flag, and it will be the
 
 ## Configuration
 Schlrint is already all set up for you, but if you really want to reconfigure it, read this.
-- `FIRST.txt` is the file searched through to find first names. You can change this to add more, or less.
+- `FIRST.txt` is the file searched through to find first names.
 - `LAST.txt` these are the last names. They are added onto every first name, and checked for results.
 - `QUERY.txt` the content in this file helps return results by google dorking common school activties.
+
+Every one of these files are easily editable. You can add more content for more accuracy, or even remove content.<br />
+Just know adding more content will make the process longer to complete, but maybe time isn't a problem :)
