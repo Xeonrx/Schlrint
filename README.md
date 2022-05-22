@@ -1,7 +1,7 @@
  ```
     __________
-  /_\ _________\
-|   | SCHLRINT | ATTENDE GATHERING TOOL
+  /_\ _________\       <S C H L R I N T>
+|   | SCHLRINT |     ATTENDE GATHERING TOOL
 |_H_|__________| [OSINT & INFORMATION GATHERING]
 ```
 >Discover attending stundents of a given school district with SCHLRINT.<br />
