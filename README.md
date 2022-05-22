@@ -29,4 +29,7 @@ Usage is pretty straight foward for SCHLRINT. You give a school district, and a 
 If you must refer to the usage again, just use the `-h` flag, and it will be there for you.
 
 ## Configuration
-Schlrint is 
+Schlrint is already all set up for you, but if you really want to reconfigure it, read this.
+- `FIRST.txt` is the file searched through to find first names. You can change this to add more, or less.
+- `LAST.txt` these are the last names. They are added onto every first name, and checked for results.
+- `QUERY.txt` the content in this file helps return results by google dorking common school activties.
