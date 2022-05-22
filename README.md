@@ -23,3 +23,5 @@ Usage is pretty straight foward for SCHLRINT. You give a school district, and a 
 
 By default, Schlrint will only return first names. Give the `--full` flag, and it will search for full names.<br />
 Use the `--unique` flag, and Schlrint will ingnore repeated names for an easier output.
+
+If you must refer to the usage again, just use the `-h` flag, and it will be there for you.
