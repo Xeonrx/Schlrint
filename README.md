@@ -8,7 +8,7 @@
 >Results may be based off of students who are currently attending or HAVE attended in the past.
 
 
-Back in past OSINT investigations, locating a persons education system was sometimes a challenge for me.<br />
+Back in past OSINT investigations, locating a persons school/education was sometimes a challenge for me.<br />
 Constantly digging through Google dorks, seeing if any name results come up with local school districts.
 
 This script was developed to aid me in google dorking, doing all the work for in searching through results.<br />
