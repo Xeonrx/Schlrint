@@ -30,7 +30,7 @@ Usage is pretty straight foward for SCHLRINT. You give a school district, and a 
 - By default, Schlrint will only return first names. Give the `--full` flag, and it will search for full names.
 - Use the `--unique` flag, and Schlrint will ingnore repeated names for an easier output.
 - If you want to dig through more results, use the `--deeper` flag, to search even further.
-- To search for specific 'targets', use the `-t` flag along with given names.
+- To search for specific 'targets', use the `-t` flag along with given names. (Use quotes if spaces)
 - To output your findings into a file, use the `-o` flag, along with the file name.
  
 If you must refer to the usage again, just use the `-h` flag, and it will be there for you.
