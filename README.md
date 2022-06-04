@@ -4,7 +4,10 @@
 |   | SCHLRINT |     ATTENDE GATHERING TOOL
 |_H_|__________| [OSINT & INFORMATION GATHERING]
 ```
-<img src="[https://your-image-url.type](https://github.com/Xeonrx/Schlrint/blob/main/img/sample.png)" width="500" height="500">
+
+<p align="center">
+  <img width="600" height="500" src="https://github.com/Xeonrx/Schlrint/blob/main/img/sample.png">
+</p>
 >Discover attending students of a given school district with SCHLRINT.<br />
 >Results may be based off of students who are currently attending or HAVE attended in the past.
 
