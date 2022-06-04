@@ -22,7 +22,7 @@ SCHLRINT can return found people off a wordlist of names, or I can specify a spe
 I don't see too many 'school based' OSINT scripts/techniques online, so I figured I'd share it with the internet.<br />
 *Note: Full preview cannot be shown for the respect of others privacy.*
 
-## Usage
+## Usage & Install
 Usage is pretty straight foward for SCHLRINT. You give a school district, and a location (state/region) if needed.
 
 `python3 Schlrint.py -d SomeSchool -l RandomPlace` *(location isnt required but helps)*
@@ -32,8 +32,12 @@ Usage is pretty straight foward for SCHLRINT. You give a school district, and a 
 - If you want to dig through more results, use the `--deeper` flag, to search even further.
 - To search for specific 'targets', use the `-t` flag along with given names.
 - To output your findings into a file, use the `-o` flag, along with the file name.
-
+ 
 If you must refer to the usage again, just use the `-h` flag, and it will be there for you.
+
+To install Schlrint, simply just `git clone` the repo, and you can `cd` into 'Schrlint'.<br />
+These are the required modules needed to run Schlrint: `argparse, requests, google, beautifulsoup`
+
 
 ## Configuration
 Schlrint is already all set up for you, but if you really want to edit it, read this.
