@@ -50,7 +50,7 @@ Every one of these files are easily editable. You can add more content for more 
 Just know adding more content will make the process longer to complete, but maybe time isn't a problem :)
 
 ## Disclaimer & License
-Just know the intent of SCHLRINT is for OSINT. Not to help dox anyone, nor to harrass people.<br />
+Just know the intent of SCHLRINT is for OSINT. Not to help dox anyone, nor to harrass/stalk people.<br />
 Please stay right, and in the legal bounds of things.
 
 and **PLEASE** don't rely on this script for a guarenteed answer. Checking Manually is always better!
