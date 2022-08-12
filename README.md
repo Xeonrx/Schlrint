@@ -40,7 +40,7 @@ These are the required modules needed to run Schlrint: `argparse, requests, goog
 
 
 ## Configuration
-Schlrint is already all set up for you, but if you really want to edit it, read this.
+Schlrint is already all set up for you, but if you wanted to adjust it to your likings:
 - `schlrint.py` the program itself. Run Schlrint via this file.
 - `FIRST.txt` is the file searched through to find first names.
 - `LAST.txt` these are the last names. They are added onto every first name, and checked for results.
